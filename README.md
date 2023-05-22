@@ -1,13 +1,28 @@
-# Beta version Elementor Pro Loop Grid provider for JetSmartFilters
+# jet-smart-filter-for-grid-loop-elementor
+اتصال پلاگین جت اسمارت فیلتر و گرید المنتور
+با اپدیت اخیر افزونه المنتور بخشی به آن اضافه شده به اسم گرید. اما متاسفانه این امکان جذاب با افزونه فیلتر سازگاری ندارد
+شما با نصب این افزونه به راحتی میتوانید این اتصال را انجام دهید
 
-This version will be merged into JetSmartFilters 3.1.0 update
+مرحله اول : نصب المنتور + المنتور پرو 
+فعال سازی loop از تنظیمات
+![image](https://github.com/farshidzahedi/jet-smart-filter-for-grid-loop-elementor/assets/68387753/8caa4c8e-0bfd-432e-aa61-24e5db6f797f)
 
-## How to use
 
-1. Install and activate as usual WP plugin
+مرحله دوم : افزونه را از گیت هاب دانلود کنید و نصب کنید
 
-2. On the filter you want to use with Loop Grid, select Elementor Pro Loop Grid provider:
-<img width="476" alt="image" src="https://user-images.githubusercontent.com/4987981/233942006-2ae2f9af-b16e-46b8-ad85-72358663f5ca.png">
+![افزونه_ها-‹-test1-—-وردپرس](https://github.com/farshidzahedi/jet-smart-filter-for-grid-loop-elementor/assets/68387753/589a7440-9396-495d-8a9d-c27b896a0ace)
 
-3. On the Loop Grid you want to filter, enable Is Filterable option:
-<img width="575" alt="image" src="https://user-images.githubusercontent.com/4987981/233942131-768babf6-1aab-445b-8aa9-ac858b0812f6.png">
+مرحله سوم : گرید خود را بسازید و فلتر خود را نیز تنظیم کنید
+
+![image](https://github.com/farshidzahedi/jet-smart-filter-for-grid-loop-elementor/assets/68387753/778c5a74-c7df-460e-9e27-a0f1df050972)
+
+![image](https://github.com/farshidzahedi/jet-smart-filter-for-grid-loop-elementor/assets/68387753/2b65d48c-8281-4f87-b672-3b6ce6c2d4e2)
+![image](https://github.com/farshidzahedi/jet-smart-filter-for-grid-loop-elementor/assets/68387753/bd989858-4888-4e81-a79a-72e4e5bb8421)
+![image](https://github.com/farshidzahedi/jet-smart-filter-for-grid-loop-elementor/assets/68387753/e6217427-6a40-439c-acfe-3c454d913121)
+
+مرحله چهارم:  فیلتر را بر اساس  “Elementor Pro Loop Grid” تنظیم کنید
+
+موفق باشید
+
+
+
